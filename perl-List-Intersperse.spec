@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	List
-%define		pnam	Intersperse
+%define	pdir	List
+%define	pnam	Intersperse
 Summary:	List::Intersperse Perl module - intersperse / unsort / disperse a list
 Summary(pl):	Modu³ Perla List::Intersperse - mieszaj±cy / rozsortowuj±cy / rozpraszaj±cy listy
 Name:		perl-List-Intersperse
