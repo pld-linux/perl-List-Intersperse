@@ -8,7 +8,7 @@ Summary:	List::Intersperse - intersperse / unsort / disperse a list
 Summary(pl):	Modu³ Perla List::Intersperse - mieszaj±cy / rozsortowuj±cy / rozpraszaj±cy listy
 Name:		perl-List-Intersperse
 Version:	1.00
-Release:	2
+Release:	3
 License:	GPL/Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
