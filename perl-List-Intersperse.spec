@@ -4,7 +4,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	List
 %define		pnam	Intersperse
-Summary:	List::Intersperse - intersperse / unsort / disperse a list
+Summary:	List::Intersperse Perl module - intersperse / unsort / disperse a list
 Summary(pl):	Modu³ Perla List::Intersperse - mieszaj±cy / rozsortowuj±cy / rozpraszaj±cy listy
 Name:		perl-List-Intersperse
 Version:	1.00
