@@ -6,7 +6,7 @@
 %define		pdir	List
 %define		pnam	Intersperse
 Summary:	List::Intersperse Perl module - intersperse / unsort / disperse a list
-Summary(pl):	Modu³ Perla List::Intersperse - mieszaj±cy / rozsortowuj±cy / rozpraszaj±cy listy
+Summary(pl.UTF-8):   ModuÅ‚ Perla List::Intersperse - mieszajÄ…cy / rozsortowujÄ…cy / rozpraszajÄ…cy listy
 Name:		perl-List-Intersperse
 Version:	1.00
 Release:	4
@@ -25,10 +25,10 @@ List::Intersperse module provides functions that evenly distribute
 elements of a list. Elements that are considered equal are spaced as
 far apart from each other as possible.
 
-%description -l pl
-Modu³ List::Intersperse udostêpnia funkcje, które równomiernie
-rozpraszaj± elementy listy. Elementy uwa¿ane za równe s± umieszczane
-mo¿liwie daleko od siebie.
+%description -l pl.UTF-8
+ModuÅ‚ List::Intersperse udostÄ™pnia funkcje, ktÃ³re rÃ³wnomiernie
+rozpraszajÄ… elementy listy. Elementy uwaÅ¼ane za rÃ³wne sÄ… umieszczane
+moÅ¼liwie daleko od siebie.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
