@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	List
 %define		pnam	Intersperse
+%include	/usr/lib/rpm/macros.perl
 Summary:	List::Intersperse Perl module - intersperse / unsort / disperse a list
 Summary(pl.UTF-8):	Moduł Perla List::Intersperse - mieszający / rozsortowujący / rozpraszający listy
 Name:		perl-List-Intersperse
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	2731d6b6f199a242f3fd0bf587cc2b1e
+URL:		http://search.cpan.org/dist/List-Intersperse/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
