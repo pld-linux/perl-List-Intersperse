@@ -8,7 +8,7 @@ Summary:	List::Intersperse Perl module - intersperse / unsort / disperse a list
 Summary(pl.UTF-8):	Moduł Perla List::Intersperse - mieszający / rozsortowujący / rozpraszający listy
 Name:		perl-List-Intersperse
 Version:	1.00
-Release:	5
+Release:	6
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
